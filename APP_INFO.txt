@@ -1,0 +1,4 @@
+SKILL ACADEMY
+School Management System
+Founder: Md. Masud Rana
+Version: 1.0.0 starter MVP
